@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    color:blue;
+}
+
+h1 i {
+    background-color: lightblue;
+    color: blue;
+}
+
+footer {
+    border: 6px solid lightblue;
+}
+
+nav {
+    border: 8px solid lightblue;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-color: lightblue;
+}
+
+.fireworks {
+    color: blue;
+}
+
+p,br {
+font-size: 20px;
+border: 8px solid blue;
+background-color: lightblue;
+border-radius: 40px;
+text-align: center;
+}
